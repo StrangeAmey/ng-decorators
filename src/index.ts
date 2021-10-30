@@ -1,0 +1,1 @@
+export {memorize} from "./decorator";
